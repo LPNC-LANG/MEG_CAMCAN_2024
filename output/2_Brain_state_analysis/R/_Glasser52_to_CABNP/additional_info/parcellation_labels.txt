@@ -1,0 +1,52 @@
+Visual primary_RH
+Visual dorsal stream_RH
+Visual ventral stream_RH
+MT+ Complex_RH
+Sup Somato & Motor_RH
+Inf Somato & Motor_RH
+SMA_RH
+Cingulate Motor & Area 5_RH
+PMC_RH
+Insular & FPOp_RH
+Early Auditory_RH
+Auditory_RH
+MTC_RH
+LTC_RH
+TPOJ_RH
+Medial IPS_RH
+Medial SPC_RH
+Inf Parietal Task-Positive Net_RH
+Inf Parietal Task-Negative Net_RH
+IPS & PGP_RH
+PCC_RH
+ACC & Medial PFC_RH
+OFC_RH
+IFG_RH
+Inf DLPFC_RH
+Sup DLPFC_RH
+Visual primary_LH
+Visual dorsal stream_LH
+Visual ventral stream_LH
+MT+ Complex_LH
+Sup Somato & Motor_LH
+Inf Somato & Motor_LH
+SMA_LH
+Cingulate Motor & Area 5_LH
+PMC_LH
+Insular & FPOp_LH
+Early Auditory_LH
+Auditory_LH
+MTC_LH
+LTC_LH
+TPOJ_LH
+Medial IPS_LH
+Medial SPC_LH
+Inf Parietal Task-Positive Net_LH
+Inf Parietal Task-Negative Net_LH
+IPS & PGP_LH
+PCC_LH
+ACC & Medial PFC_LH
+OFC_LH
+IFG_LH
+Inf DLPFC_LH
+Sup DLPFC_LH
